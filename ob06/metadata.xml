@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cem:cem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cem="http://ltsc.ieee.org/xsd/CEM" xsi:type="cem:cem" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lomCustom.xsd">
+  <general>
+    <language>en</language>
+    <identifier>
+      <catalog catName="edistribution" catSource="http://www.edistribution.co/">engenn5le05ob06</catalog>
+    </identifier>
+    <title subtitle="" lang="en">A City in Two Continents</title>
+    <description lang="en">This virtual learning object "A City in Two Continents" that makes part of the lesson No: 5, Sally on the Aegean Sea, which in turn belongs to the Elementary (A2.2) of the teaching of English as a Foreign Language, is intended to work on: ask and say where places are in a country. The grammar of this LO refers to: adjectives and nouns to describe a city, e.g. modern, aqueduct; simple future tense using will, may, and might, e.g. we will also visit Topkapi Palace; simple past tense, regular and irregular verbs in affirmative, e.g. the builders covered the interior walls with blue tiles. Also, the vocabulary considers: past time expressions, e.g. one time, once; shops, places in towns and cities, e.g. aqueduct, residence.</description>
+    <keyword lang="en">
+      <li>Using past time expressions</li>
+      <li>Simple past tense</li>
+      <li>Talking about cities</li>
+      <li>Places in the city</li>
+      <li>Talking about things in the future</li>
+      <li>Talking about actions in the future</li>
+      <li>Talking about events in the future</li>
+      <li>Future tense</li>
+      <li>Adjectives</li>
+    </keyword>
+  </general>
+  <lifeCycle>
+    <version date="30-04-2015">1.0</version>
+    <status>Publicado</status>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24933" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Martin, Bill</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24934" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Ma, Yueh-Chin</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24935" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Zlatkin, Lial</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24936" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">McMahon, Robert Christopher</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24937" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Roadhouse, Sean Roy</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24938" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Zlatkin, Martin</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24939" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Tomlinson, Kristine Rose Seko</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24940" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Kwong, Truman</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Productor ejecutivo</role>
+      <entity entityForm="24941" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Edmonds, Jayne</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador instruccional</role>
+      <entity entityForm="24942" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Gagliano, Rita</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24943" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Gullotti, Giuliano</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24944" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Ryan, Natalie</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24945" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Loganathan, Chamini</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24946" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Power, Anne-Louise</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24947" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Vizard, Carol</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Experto pedagógico</role>
+      <entity entityForm="24948" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Gibbs, Charles</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24952" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Pereira, Ricardo Jorge da Rocha Silva</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24953" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Romanova, Maria Alexandrovna</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24954" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Moffat, Siusan</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Diseñador gráfico</role>
+      <entity entityForm="24955" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Wasson, Jeff</entity>
+      <date>30-04-2015</date>
+    </contribute>
+    <contribute>
+      <role schema="CEM">Desarrollador web</role>
+      <entity entityForm="24957" type="Persona" src="info@elltechnologies.com" institution="ELL Technologies Ltd." country="CA">Singh, Seema</entity>
+      <date>30-04-2015</date>
+    </contribute>
+  </lifeCycle>
+  <educational>
+    <description>
+      <recommendedUse lang="en">This digital resource can be used as an activity that allows the learner to reflect on the use of grammar of English language in different communicative contexts. The instructor can work further on activities and tasks that help learners to improve their procedural knowledge.</recommendedUse>
+      <triggerQuestion lang="en">Where would you like to go on vacations?; What ancient city would you like to visit? Why?</triggerQuestion>
+      <pedagogicalAspect lang="en">This learning object "A City in Two Continents" that is part of the lesson No: 5, Sally on the Aegean Sea, which in turn belongs to the Elementary (A2.2) of the teaching of English as a Foreign Language, allows the learner to develop the following topics: adjectives and nouns to describe a city, e.g. modern, aqueduct; simple future tense using will, may, and might, e.g. we will also visit Topkapi Palace; simple past tense, regular and irregular verbs in affirmative, e.g. the builders covered the interior walls with blue tiles. It is presented within the context of ask and say where places are in a country. The student will be exposed to vocabulary related to: past time expressions, e.g. one time, once; shops, places in towns and cities, e.g. aqueduct, residence. Learners will develop their language skills by using an online content as well as the guidance of a SENA instructor.</pedagogicalAspect>
+      <learningGoal lang="en">The purpose of this learning object is to accurately use information about people's jobs and places of work in communicative situations.</learningGoal>
+    </description>
+  </educational>
+</cem:cem>
